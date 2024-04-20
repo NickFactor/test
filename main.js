@@ -1,1 +1,3 @@
-console.log('Hrllo world!12')
+const namew = 'Nick';
+console.log(`My name is ${namew}`)
+console.log
